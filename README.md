@@ -34,5 +34,8 @@ Please fill in the sections below after you complete the challenge.
 --->
 
 ### What I'm Pleased With
+I am pleased that I found a solution that works for all but one of the test cases that I have presented to it. I am fairly pleased with the clarity of my code as I believe it it quite easy to follow and sections e.g. functions could be reused in future code. 
 
 ### What I Would Have Done With More Time
+If I had more time, I would research or ask for support in adjusting my function so that it passes when the target is above thae starting point on the grid. I have just begun a chapter on pathfinding algorithms on my Into to Computer Science course, so I would implement and test dijkstra or other such algorithms or use them to edit my own function to pass the final test case. I would also find it interesting to use BFS, DFS dijkstra and A* on the same map and time each one. 
+I would have investigated how to implement further tests using a library such as 'pytest.' (Testing is an area of my skill set I am working on developing). In the future, I would use libraries to present the code in an interesting way and to track the path as it moves through the maze. For future development purposes, I would like to implement this challenge into games. 
